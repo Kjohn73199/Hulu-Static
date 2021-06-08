@@ -1,0 +1,145 @@
+body{
+    background: linear-gradient(to right,#043d3d,#017777)
+  }
+  h1{
+      Left: 430px;
+      top: 85px;
+    position: absolute;
+    color:#109c62;
+    font-size: 30px;
+    z-index:1 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  h2{
+      text-align:center ;
+    left: 500px;
+    bottom: 90px;
+    position:absolute;
+  color:#ffffff;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  }
+  h3{
+    position: absolute;
+    bottom:10px;
+    left:530px;
+    padding: 0;
+  color:#ffffffa2;
+  font-size: 10px;
+  font-family: 'Times New Roman', Times, serif; 
+  }
+  h4{
+      position: absolute;
+      bottom:-67px;
+      left:520px;
+    padding: 0;
+  color:#16c57c;
+  font-size: 14px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  h5{
+    text-align: center;
+    position: absolute;
+    bottom:-145px;
+      left:560px;
+    padding: 0;
+  color:#ffffff;
+  font-size: 14px;
+  font-family: 'Times New Roman', Times, serif;  
+  }
+  h6{
+    right: -45px;
+      top: 60px;
+      white-space: nowrap;
+    position: absolute;
+    color:#109c62;
+    font-size: 15px;
+    z-index:1 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  h7{
+    text-align: left;
+    position: absolute;
+    bottom:-160px;
+      left:-200px;
+    white-space: nowrap;
+  color:#ffffff;
+  font-size: 60px;
+  font-weight: 900;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  z-index: 1;
+  }
+  h8{
+    text-align: center;
+    position: absolute;
+    bottom:-240px;
+      left:-275px;
+      white-space: nowrap;
+  color:#ffffff;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  z-index: 1;
+  }
+  .login{
+    position: absolute;
+      bottom:500px;
+      left:1125px;
+    padding: 0;
+  color:#ffffff;
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+  }
+  .trialbutton{
+      text-align: center;
+      bottom: 50px;
+      left: 560px;
+      border-color: black;
+      border-radius: 100px;
+      position: absolute;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .bundlebutton{
+    text-align: center;
+    bottom: -155px;
+    left: 600px;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:transparent;
+    cursor:pointer;
+  }
+  .image1{
+    top:0px;
+    left:-7px;
+    position: absolute;
+  }
+  .image2{
+      bottom:-100px;
+      left:550px;
+      position: absolute;
+  }
+.deta{
+    bottom:-120px;
+    left:700px;
+    position: absolute;
+}
+.terms{
+    bottom: -180px;
+    left: 610px;
+    position: absolute;
+}
+.box{
+  width: 1263px;
+ height:800px;
+ top:30px;
+  position:absolute;
+  left:-600px;
+  background-color: black;
+  z-index: 0;
+}
+.row{
+  display: flex;
+  top:400px;
+  right:-570px;
+  z-index:2;
+  position:absolute;
+}
